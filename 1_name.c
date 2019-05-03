@@ -4,6 +4,6 @@ int main()
 
 {
 
-	printf("balu\n");
+	printf("noob\n");
 
 }
